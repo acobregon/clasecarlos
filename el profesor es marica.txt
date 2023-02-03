@@ -2,8 +2,5 @@ el profesor es marica
 
 da culo
 
-<<<<<<< HEAD
-callate la mierda
-=======
 finalizada la cabecera con el diseño azul
->>>>>>> rama1
+
